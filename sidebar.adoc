@@ -29,7 +29,6 @@ link:{url}/ros/index.html[Robotic Operating System]::
 link:{url}/architecture/index.html[Architecture]::
         - link:{url}/architecture/Software.html[Software Architecture]
         - link:{url}/architecture/Hardware.html[Hardware Architecture]
-        - link:{url}/architecture/Skylab.html[Skylab Architecture]
         - link:{url}/architecture/rostopics.html[ROS topic design]
 
 link:{url}/hardware_nodes/index.html[Hardware nodes]::
@@ -51,15 +50,6 @@ link:{url}/components/index.html[Components]::
         - link:{url}/components/speech.html[Speech]
        	- link:{url}/components/speech_recognition.html[Speech recognition]
 
-link:{url}/skylab/index.html[Skylab]::
-        - link:{url}/skylab/setup_skylab.html[Setup Skylab]
-        - link:{url}/skylab/Python_scripts.html[Python scripts]
-        - link:{url}/skylab/Webserver.html[Webserver]
-        - link:{url}/skylab/Webserver_functions.html[Functions of the webserver]
-        - link:{url}/skylab/Skylab_servers.html[Skylab servers]
-        - link:{url}/skylab/ROS_install_on_Ubuntu_VMs.html[ROS installation on Ubuntu VMs in Skylab]
-        - link:{url}/skylab/DNS_DHCP_pfSense_Ubuntu.html[DNS,DHCP, pfSense & Ubuntu]
-
 link:{url}/Radeffect_app/index.html[Radeffect App]::
         - link:{url}/Radeffect_app/Radeffect_app.html[Radeffect App]
         
@@ -70,3 +60,5 @@ link:{url}/lessons_learned/index.html[Lessons learned]::
 link:{url}/archive/index.html[Archive]::
         - link:{url}/archive/previousgroups.html[Previous Groups]
         - link:{url}/archive/Archiveresearch.html[Research Archive]
+        - link:{url}/archive/Skylab.html[Skylab Architecture]
+        - link:{url}/skylab/index.html[Skylab]::
